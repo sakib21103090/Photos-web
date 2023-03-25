@@ -1,0 +1,19 @@
+.photo{
+    background: #edd4d4;
+    border: 9px solid rgb(184, 91, 32);
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+}
+h2 {
+ color: rgb(110, 59, 22);
+}
+.style-photos{
+
+  display: grid;
+  grid-template-columns: repeat(3 ,1fr);
+  grid-gap: 10px;
+}
+h4{
+    color: rgb(159, 121, 24);
+}
